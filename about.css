@@ -1,0 +1,44 @@
+
+
+
+.about{
+		background:url(k33.png);
+		background-size: cover;
+		height:260px;
+		width:100%;
+		background-attachment:;
+		}
+		
+.about-main{
+		height:260px;
+		background:rgba(0,0,0,0.6);
+		}
+		
+		
+.who{
+    	
+    		width:3000px;
+    	position:relative;
+    	border-bottom:2px solid red;
+    		
+    		}
+    		.who2{
+    				position:absulate;
+    		overflow-X:auto;
+    		overflow-Y: hidden;
+    				height:150px;
+    				width:100%;
+    				}
+    			.who-box{
+    					width:170px;
+    					height:145px;
+    					float:left;
+    					margin:4px;
+    					}
+@media (min-width:576px){
+		#gallery img{
+		height:180px;
+		width:180px;
+		
+		}
+		}
